@@ -9,7 +9,7 @@
 - 🇩🇪 German (Beginner)
 
 ## Programming Languages
-[![python](https://img.shields.io/badge/-python-00ffe4?&logo=Python&logoColor=white)](https://www.python.org/)
+[![python](https://img.shields.io/badge/-python-00ff42?&logo=Python&logoColor=white)](https://www.python.org/)
 - 🦫 Go 
 - ☕📄 JavaScript
 
