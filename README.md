@@ -9,9 +9,9 @@
 - 🇩🇪 German (Beginner)
 
 ## Programming Languages
-- Python 🐍
-- Go 🦫
-- JavaScript ☕📄
+- 🐍 Python
+- 🦫 Go 
+- ☕📄 JavaScript
 
 ## <a href="https://vvoiner.github.io/" target="_blank" rel="noopener noreferrer">Website</a>
 Slapped it together in 20 minutes, but I think it looks nice.
