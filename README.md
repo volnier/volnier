@@ -11,4 +11,4 @@
 ## Programming Languages
 - Python 🐍
 - Go 🦫
-- JavaScript <img src="javascript.svg" width="20" height="20"> 
+- JavaScript <img src="javascript.svg" width="20" height="30"> 
