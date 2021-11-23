@@ -1,7 +1,7 @@
 # ✨ Welcome to my profile :) ✨
 ## About me
 - Username: wowil
-- Interested in: Tech stuff, History, Tea
+- Likes: Tech stuff, History, Tea
 - OS: Ubuntu 21.10 / Windows 10 (Dualboot)
 - Specs: Ryzen 2600X, GTX 1060 3GB, 24GB 3200MHz RAM, Samsung 970 Evo 500GB M.2, 1440x2560 144hz Monitor
 
