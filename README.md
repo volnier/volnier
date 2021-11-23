@@ -9,6 +9,6 @@
 - German (Beginner)
 
 ## Programming Languages
-- Python <img src="./python.svg" width=30px height=30px>
-- Go 
-- JavaScript
+- Python 🐍
+- Go 🦫
+- JavaScript <img src="javascript.svg" width="20" height="20"> 
