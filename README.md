@@ -1,4 +1,4 @@
-# ✨ Welcome to my profile :) ✨
+# ✨ Welcome to my profile ᗜˬᗜ ✨
 ## About me
 - Username: wowil
 - Likes: Tech stuff, History, Tea
