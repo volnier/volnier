@@ -1,5 +1,7 @@
 # ✨ Welcome to my profile (ᗜˬᗜ) ✨
-<img src="banner.png">
+<p align="center">
+  <img src="banner.png">
+</p>
 ## About me
 - Username: wowil
 - Likes: Tech stuff, History, Tea
