@@ -1,6 +1,6 @@
 # ✨ Welcome to my profile (ᗜˬᗜ) ✨
 <p align="center">
-  <img src="save.png">
+  <img src="save.pn">
 </p>
 
 ## About me
