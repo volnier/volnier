@@ -1,13 +1,13 @@
-# ✨ Welcome to my profile! (ᗜˬᗜ) ✨
+# 👋 Welcome to my profile! (ᗜˬᗜ) 👋
 <p align="center">
   <img src="image.png" width=600 height=269>
 </p>
 
 ## About me
-- Username: wowil
-- Likes: Tech stuff, History, Tea
-- OS: Ubuntu 21.10 / Windows 10 (Dualboot)
-- Specs: Ryzen 2600X, GTX 1060 3GB, 24GB 3000MHz RAM, Samsung 970 Evo 500GB M.2, 1440x2560 144Hz Monitor
+- ✨ Username: wowil
+- ✨ Likes: Tech stuff, History, Tea
+- ✨ OS: Ubuntu 21.10 / Windows 10 (Dualboot)
+- ✨ Specs: Ryzen 2600X, GTX 1060 3GB, 24GB 3000MHz RAM, Samsung 970 Evo 500GB M.2, 1440x2560 144Hz Monitor
 
 ## Hobbys
 - 🎮 Gaming
