@@ -6,7 +6,7 @@
 ## About me
 - ✨ Username: wowil
 - ✨ Likes: Tech Stuff, Anime, History, Tea
-- ✨ OS: Ubuntu 21.10 / Windows 10 (Dualboot)
+- ✨ OS: Arch Linux / Windows 10 (Dualboot)
 <details>
 <summary>Click to expand</summary>
 
