@@ -6,7 +6,7 @@
 ## About me
 - ✨ Username: wowil
 - ✨ Likes: Tech Stuff, Anime, History, Tea
-- ✨ OS: Arch Linux / Windows 10 (Dualboot)
+- ✨ OS: Artix Linux / Windows 10 (Dualboot)
 <details>
 <summary>Click to expand</summary>
 
