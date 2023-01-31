@@ -1,9 +1,9 @@
 # about me
 gaymer
 
-## Languages
+## languages
 polish, english and some german
 
-## Programming Languages
+## programming Languages
 python js and maybe some cpp i guess
 
